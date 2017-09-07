@@ -1736,6 +1736,7 @@
 
 	header.major h2 {
 		font-size: 2em;
+        color: #000000;
 	}
 
 /* Form */
@@ -2509,6 +2510,7 @@
 
 		#header strong, #header b {
 			color: #ffffff;
+            font-size: 1.5em;
 		}
 
 		#header h2, #header h3, #header h4, #header h5, #header h6 {
@@ -2531,6 +2533,7 @@
     
 	#footer .icons {
 		margin: 1em 0 0 0;
+        font-size: 1.5em;
 	}
 
 		#footer .icons a {
